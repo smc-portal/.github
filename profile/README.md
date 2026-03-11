@@ -2,6 +2,10 @@
 GitHub Organization 작업 가이드
 Organization 내에서 레포지토리를 관리하고 브랜치 작업을 수행하는 표준 절차입니다.
 
+> [!Warning]
+>
+> Repo에 Push 할때 사용자간의 Push가 문제가 될 수 있으니
+> 브런치를 나누어서 Push하도록 합시다.
 ---
 
 1. 레포지토리 생성 및 클론
@@ -55,8 +59,3 @@ git push origin feature/organization-guide
 
 5. Pull Request 생성
    GitHub 웹사이트에서 Compare & pull request 버튼을 눌러 코드 리뷰를 요청하고 메인 브랜치에 반영합니다.
----
-> [!Warning]
-> 
-> Repo에 Push 할때 사용자간의 Push가 문제가 될 수 있으니 
-> 브런치를 나누어서 Push하도록 합시다.
