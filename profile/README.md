@@ -54,4 +54,4 @@ git push origin feature/organization-guide
 ```
 
 5. Pull Request 생성
-   GitHub 웹사이트에서 Compare & pull request 버튼을 눌러 코드 리뷰를 요청하고 메인 브랜치에 반영합니다.
+   GitHub 웹사이트에서 Compare & pull request 버튼을 눌러 코드 리뷰를 요청하고 메인 브랜치에 반영합니다..
